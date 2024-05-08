@@ -2,6 +2,9 @@
 
 This is a Streamlit Machine Learning Web application by which we can train the data by uploading any csv file.
 
+Install all the packages mentioned in the "requirements.txt"
+**pip install -r requirements.txt**
+
 ****How it Works****
 
 1) Upload the CSV file
