@@ -2,7 +2,7 @@
 
 This is a Streamlit Machine Learning Web application by which we can train the data by uploading any csv file.
 
-##How it Works
+****How it Works****
 
 1) Upload the CSV file
 2) We can see the head of the data.
@@ -14,5 +14,6 @@ This is a Streamlit Machine Learning Web application by which we can train the d
 8) Then the Web Application automatically trained the data using multiple Machine Learning models.
 9) Represent the Mean Square Error and the R2 score of each model.
 
-##Deployement
-I Deploy this application using ###Streamlit
+****Deployement****
+
+I Deploy this application using **Streamlit**
